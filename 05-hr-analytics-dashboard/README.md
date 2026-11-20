@@ -20,3 +20,10 @@
 
 ## Screenshot
 ![HR Analytics dashboard](images/dashboard.png)
+
+## About this project
+- **Data:** Practice HR dataset; employee names are sample data, not real employees.
+- **Files in this folder:** dashboard screenshots only. They were captured from the demo video I posted on LinkedIn, so some show a video timer or mute icon. The original report file and dataset are no longer available.
+- **Role:** built individually.
+
+[← Back to all projects](../README.md)

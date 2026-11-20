@@ -16,3 +16,10 @@
 
 ## Screenshot
 ![Nike Products dashboard](images/dashboard.png)
+
+## About this project
+- **Data:** Nike test dataset used for practical training. Product names, images and the Nike logo belong to Nike, Inc.
+- **Files in this folder:** dashboard screenshots only. They were captured from the demo video I posted on LinkedIn, so some show a video timer or mute icon. The original report file and dataset are no longer available.
+- **Role:** built individually.
+
+[← Back to all projects](../README.md)

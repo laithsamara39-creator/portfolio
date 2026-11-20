@@ -25,3 +25,10 @@ One of my strongest projects. I used AI to generate a realistic dataset that sim
 
 ## What I learned
 How to turn numbers into something simple and easy to understand, and how design choices can completely change the way people read the data.
+
+## About this project
+- **Data:** Synthetic dataset generated with AI to simulate a pharmacy in Jordan. Customer and product names are fictional.
+- **Files in this folder:** dashboard screenshots only. They were captured from the demo video I posted on LinkedIn, so some show a video timer or mute icon. The original report file and dataset are no longer available.
+- **Role:** built individually.
+
+[← Back to all projects](../README.md)

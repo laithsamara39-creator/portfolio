@@ -16,3 +16,10 @@ A dashboard that tracks which customer accounts are at risk, how risky they are,
 
 ## Screenshot
 ![Customer Risk Analysis dashboard](images/dashboard.png)
+
+## About this project
+- **Data:** Practice dataset; account IDs are anonymized (e.g. A000, A001).
+- **Files in this folder:** dashboard screenshots only. They were captured from the demo video I posted on LinkedIn, so some show a video timer or mute icon. The original report file and dataset are no longer available.
+- **Role:** built individually.
+
+[← Back to all projects](../README.md)

@@ -15,3 +15,10 @@ An interactive dashboard that gives management a full view of sales across branc
 
 ## Screenshot
 ![Sales Dashboard – Jordan Branches](images/dashboard.png)
+
+## About this project
+- **Data:** Practice sales dataset.
+- **Files in this folder:** dashboard screenshots only. They were captured from the demo video I posted on LinkedIn, so some show a video timer or mute icon. The original report file and dataset are no longer available.
+- **Role:** built individually.
+
+[← Back to all projects](../README.md)

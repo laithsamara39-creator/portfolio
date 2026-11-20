@@ -15,3 +15,10 @@ Filters for customer country and product category.
 
 ## Screenshot
 ![SuperStore Tableau dashboard](images/dashboard.png)
+
+## About this project
+- **Data:** SuperStore-style practice dataset used in Tableau training. Map © Mapbox © OpenStreetMap.
+- **Files in this folder:** dashboard screenshots only. They were captured from the demo video I posted on LinkedIn, so some show a video timer or mute icon. The original report file and dataset are no longer available.
+- **Role:** built individually.
+
+[← Back to all projects](../README.md)

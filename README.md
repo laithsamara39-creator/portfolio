@@ -38,6 +38,15 @@ This repository collects the dashboard projects I've built and shared on LinkedI
 - **Excel:** data preparation, formulas, pivot tables
 - **SQL:** querying and preparing data for analysis
 
+## About this repository
+- Each project folder has a **README** that explains the goal, what the dashboard shows and the techniques used, plus **screenshots** of the dashboard.
+- The original report files (`.pbix` / `.twbx`) and datasets were lost, so this repository is a **visual portfolio**: screenshots were recovered from my LinkedIn posts. New projects will include their source files.
+- All datasets are **practice, course or synthetic data**. No real customer or employee data is shown.
+
+## Trademarks & rights
+- Brand names, logos and product images shown in some dashboards (e.g. Nike, Tableau, Power BI) belong to their owners. This portfolio is not affiliated with or endorsed by them; they appear only as part of training projects.
+- © Laith Samara. The write-ups and dashboard designs are shared for viewing; no license is granted to reuse them.
+
 ## Contact
 
 Find me on LinkedIn — **Laith Samara**.

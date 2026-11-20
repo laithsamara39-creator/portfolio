@@ -13,6 +13,16 @@
 
 Filters for customer country and product category.
 
+## Data Preparation
+- Cleaned the data before building the views: removed **duplicate rows**, handled **blank / missing values**, and fixed **incorrect columns** (data types and names).
+- Organized the data into **separate related tables** and linked them in the data source.
+
+## Analysis
+- Compared order value across **product categories**.
+- Mapped orders by **customer country** to see where demand comes from.
+- Tracked **final cost** month by month to spot seasonal peaks and drops.
+- Compared **Wholesale vs. Retail** orders and the cost of each category.
+
 ## Screenshot
 ![SuperStore Tableau dashboard](images/dashboard.png)
 

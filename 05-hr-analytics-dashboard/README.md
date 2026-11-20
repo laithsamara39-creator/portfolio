@@ -18,6 +18,15 @@
 - **IT** has the highest salaries and bonuses, which matches market demand for those skills, but raises the question of how to improve rewards in other departments.
 - Employee satisfaction with **work-life balance** is good overall, with room to improve in some areas.
 
+## Data Preparation
+- Cleaned the data in **Power Query**: removed **duplicate rows**, handled **blank / missing values**, and fixed **incorrect columns** (data types and names).
+- Split the data into **separate tables** and **linked them with relationships** to build a data model.
+
+## Analysis
+- Compared **performance rating**, **overtime hours**, **age** and **work-life balance** for each employee.
+- Compared **tenure** (years at company) across departments.
+- Compared **salary vs. bonus** by department.
+
 ## Screenshot
 ![HR Analytics dashboard](images/dashboard.png)
 

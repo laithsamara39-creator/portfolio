@@ -13,6 +13,15 @@ An interactive dashboard that gives management a full view of sales across branc
 - Detail table by region and product
 - Month and region filters
 
+## Data Preparation
+- Cleaned the data in **Power Query**: removed **duplicate rows**, handled **blank / missing values**, and fixed **incorrect columns** (data types and names).
+- Split the data into **separate tables** and **linked them with relationships** to build a data model.
+
+## Analysis
+- Ranked **months** by sales to find the strongest and weakest periods.
+- Compared **sales vs. quantity** for each product.
+- Broke sales down by **region / branch**.
+
 ## Screenshot
 ![Sales Dashboard – Jordan Branches](images/dashboard.png)
 

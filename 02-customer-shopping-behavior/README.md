@@ -16,6 +16,16 @@
 - Picture-based slicers
 - Dark, branded report theme
 
+## Data Preparation
+- Cleaned the data in **Power Query**: removed **duplicate rows**, handled **blank / missing values**, and fixed **incorrect columns** (data types and names).
+- Split the data into **separate tables** and **linked them with relationships** to build a data model.
+
+## Analysis
+- Compared total purchase amount across **product categories** — Clothing leads by a wide margin.
+- Tested whether **subscriptions** and **discounts** change the average purchase amount.
+- Counted customers by **shipping type** to see which delivery options are most used.
+- Compared purchases across **seasons**.
+
 ## Screenshot
 ![Customer Shopping Behavior dashboard](images/dashboard.png)
 

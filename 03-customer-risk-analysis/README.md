@@ -14,6 +14,16 @@ A dashboard that tracks which customer accounts are at risk, how risky they are,
 - Account-level table with **colour-coded risk indicators**
 - Filters for industry, account and status
 
+## Data Preparation
+- Cleaned the data in **Power Query**: removed **duplicate rows**, handled **blank / missing values**, and fixed **incorrect columns** (data types and names).
+- Split the data into **separate tables** and **linked them with relationships** to build a data model.
+
+## Analysis
+- Segmented accounts by **risk level** and looked at the distribution of **risk scores** — most accounts are low risk.
+- Analyzed **why accounts are at risk** by account status (pilot, active, maintenance).
+- Compared average risk score by **customer segment** and **plan**.
+- Tracked the **prediction window** over the years and flagged each account with **colour-coded risk icons**.
+
 ## Screenshot
 ![Customer Risk Analysis dashboard](images/dashboard.png)
 

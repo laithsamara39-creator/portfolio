@@ -19,6 +19,16 @@ One of my strongest projects. I used AI to generate a realistic dataset that sim
 - Product table with supplier and unit price
 - Filters for **city** and **branch**
 
+## Data Preparation
+- Cleaned the data in **Power Query**: removed **duplicate rows**, handled **blank / missing values**, and fixed **incorrect columns** (data types and names).
+- Split the data into **separate tables** and **linked them with relationships** to build a data model.
+
+## Analysis
+- Ranked **products** and **customers** by revenue to find the top sellers and best customers.
+- Compared quantity across **categories**, **gender** and **customer segment** (Regular vs VIP).
+- Broke revenue down by **payment method** and **branch**.
+- Tracked **daily revenue** over time to see peaks and quiet days.
+
 ## Screenshots
 ![Dashboard – overview](images/dashboard-1.png)
 ![Dashboard – SVG KPI cards](images/dashboard-2.png)

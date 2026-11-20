@@ -14,6 +14,14 @@
 - Custom KPI cards with icons
 - Branded layout
 
+## Data Preparation
+- Cleaned the data in **Power Query**: removed **duplicate rows**, handled **blank / missing values**, and fixed **incorrect columns** (data types and names).
+- Split the data into **separate tables** and **linked them with relationships** to build a data model.
+
+## Analysis
+- Summarized total sales, number of reviews and average rating as headline KPIs.
+- Built **product-level exploration**: selecting a shoe filters the KPIs, photos and description to that product.
+
 ## Screenshot
 ![Nike Products dashboard](images/dashboard.png)
 

@@ -1,7 +1,8 @@
 # Customer Risk Analysis
 
 **Tool:** Power BI  
-**Domain:** SaaS / Customer success
+**Domain:** SaaS / Customer success  
+**Context:** University graduation project — **Grade: A**
 
 A dashboard that tracks which customer accounts are at risk, how risky they are, and why.
 
@@ -19,7 +20,7 @@ A dashboard that tracks which customer accounts are at risk, how risky they are,
 - Split the data into **separate tables** and **linked them with relationships** to build a data model.
 
 ## Analysis
-- Segmented accounts by **risk level** and looked at the distribution of **risk scores** — most accounts are low risk.
+- Segmented accounts by **risk level** and looked at the distribution of **risk scores** — **90.6%** of accounts are low risk (997 of 1,100).
 - Analyzed **why accounts are at risk** by account status (pilot, active, maintenance).
 - Compared average risk score by **customer segment** and **plan**.
 - Tracked the **prediction window** over the years and flagged each account with **colour-coded risk icons**.
@@ -30,6 +31,6 @@ A dashboard that tracks which customer accounts are at risk, how risky they are,
 ## About this project
 - **Data:** Practice dataset; account IDs are anonymized (e.g. A000, A001).
 - **Files in this folder:** dashboard screenshots only. They were captured from the demo video I posted on LinkedIn, so some show a video timer or mute icon. The original report file and dataset are no longer available.
-- **Role:** built individually.
+- **Role:** built individually as my graduation project (University of Petra).
 
 [← Back to all projects](../README.md)
